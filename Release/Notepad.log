@@ -1,0 +1,5 @@
+﻿  Form1.cpp
+F:\C++ Programming\Notepad\Form1.cpp(10,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+F:\C++ Programming\Notepad\Form1.h(514): warning C4700: uninitialized local variable 'linecount' used
+  Form1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Notepad.vcxproj -> F:\C++ Programming\Notepad\Release\Notepad.exe

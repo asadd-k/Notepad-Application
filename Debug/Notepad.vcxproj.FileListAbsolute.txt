@@ -1,0 +1,4 @@
+F:\C++ Programming\Notepad\Debug\Notepad.vcxproj.AssemblyReference.cache
+F:\C++ Programming\Notepad\Debug\Notepad.Form1.resources
+F:\C++ Programming\Notepad\Debug\Notepad.vcxproj.GenerateResource.cache
+F:\C++ Programming\Notepad\Debug\Notepad.exe
