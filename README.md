@@ -8,7 +8,7 @@ There are numerous bugs and half working implementations. Pull requests are grea
 
 ## Usage 
 
-You can download the repo and use it on windows systems . **.NET 4.7 or Higher ** is required .
+You can download the repo and use it on windows systems . DOTNET 4.7 or Higher is required .
 
 ## Developemt
 
